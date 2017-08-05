@@ -1,0 +1,32 @@
+{
+  "name": "pico-ms",
+  "version": "1.0.0",
+  "description": "Incy wincy millisecond converter for hours, minutes, or seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/pico-ms.git"
+  },
+  "keywords": [
+    "ms",
+    "millisecond",
+    "time",
+    "minute",
+    "second",
+    "hour",
+    "convert",
+    "humanize"
+  ],
+  "author": "Andrew Carpenter (https://github.com/doesdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/pico-ms/issues"
+  },
+  "homepage": "https://github.com/doesdev/pico-ms#readme",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}

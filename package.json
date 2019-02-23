@@ -1,10 +1,10 @@
 {
   "name": "pico-ms",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Incy wincy millisecond converter for hours, minutes, or seconds",
   "main": "index.js",
   "scripts": {
-    "test": "ava --verbose"
+    "test": "node test --verbose"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/doesdev/pico-ms#readme",
   "devDependencies": {
-    "ava": "^0.21.0"
+    "mvt": "^1.1.0"
   }
 }

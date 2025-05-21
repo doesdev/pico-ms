@@ -1,9 +1,9 @@
 {
   "name": "pico-ms",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Incy wincy millisecond converter for hours, minutes, or seconds",
   "type": "module",
-  "entry": "index.js",
+  "main": "index.js",
   "files": [
     "index.js"
   ],
